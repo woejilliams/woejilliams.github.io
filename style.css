@@ -7,3 +7,6 @@ nav {
   width : 50%;
   text-align : center;
 }
+li {
+  list-style-position: inside;
+}
